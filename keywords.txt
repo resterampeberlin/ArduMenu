@@ -1,0 +1,31 @@
+#######################################
+# Syntax Coloring Map For OneWire
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+RotaryEncoder   	KEYWORD1
+encoderStatus_t 	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+setRange        	KEYWORD2
+setCount        	KEYWORD2
+getCount        	KEYWORD2
+getStatus       	KEYWORD2
+waitForStatus   	KEYWORD2
+setSwitchTimeout      	KEYWORD2
+
+#######################################
+# Instances (KEYWORD2)
+#######################################
+
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
